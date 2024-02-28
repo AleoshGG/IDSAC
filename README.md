@@ -1,2 +1,1 @@
-<h1>Soy un Readme</h1>
-*Baja los codigos*
+<h1>Soy un readmne</h1>
